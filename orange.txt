@@ -1,6 +1,8 @@
 {
+
   "name": "Srulik",
   "origin": "IL",
   "size": 3,
   "color": "Orange"
+  "count": 5
 }
