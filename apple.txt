@@ -1,0 +1,6 @@
+{
+  "name": "Smith",
+  "origin": "IL",
+  "size": 3,
+  "color": "Green"
+}
