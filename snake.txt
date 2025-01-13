@@ -1,0 +1,26 @@
+{
+  "name": "Menashe",
+  "breed": "Cobra",
+  "age": 3,
+  "color": "Brown",
+  "weight": 29.5,
+  "gender": "Female",
+  "vaccinated": true,
+  "microchipped": true,
+  "favorite_activities": [
+    "bite",
+    "crwal",
+    "eat"
+  ],
+  "friendly_with": {
+    "children": false,
+    "other_dogs": false,
+    "other_cats": false,
+    "cats": false
+  },
+  "medical_history": {
+    "spayed_neutered": true,
+    "allergies": ["peanuts"],
+    "last_vet_visit": "2023-12-11"
+  }
+}
